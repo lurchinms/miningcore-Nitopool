@@ -264,7 +264,7 @@ public class BitcoinPool : PoolBase
             // banning
            // ConsiderBan(connection, context, poolConfig.Banning);
 
-            throw;
+            //throw;
         }
     }
 
