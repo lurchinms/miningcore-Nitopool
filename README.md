@@ -18,6 +18,8 @@
 - POW (proof-of-work) & POS (proof-of-stake) support
 - Detailed per-pool logging to console & filesystem
 - Runs on Linux and Windows
+- Has BrainsOS Based Stratum V2
+- Has Coin Market Cap API data
 
 ## Contributions
 
