@@ -2,8 +2,7 @@
 [![.NET](https://github.com/lurchinms/miningcore/actions/workflows/dotnet.yml/badge.svg)](https://github.com/lurchinms/miningcore/actions/workflows/dotnet.yml)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-<img src="https://github.com/lurchinms/miningcore-Nitopool/logo.png" width="150">
-
+<img src="https://github.com/blackmennewstyle/miningcore-Nitopool/raw/master/logo.png" width="150">
 ### Features
 
 - Supports clusters of pools each running individual currencies
